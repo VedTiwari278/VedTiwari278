@@ -1,27 +1,47 @@
-# 👋 Hey, I'm Ved Tiwari – MERN Stack Developer
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;MERN+Architect;Building+Web+Experiences;Next.js+%26+TypeScript+Enthusiast)](https://github.com/VedTiwari278)
-  
-  <p>
-    <strong>🚀 Crafting high-performance full-stack applications</strong><br/>
-    <em>React • Node.js • MongoDB • Express | Based in India 🇮🇳</em>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:0e7490,100:00f7ff&height=230&section=header&text=Ved%20Tiwari&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descSize=20&descAlignY=58" alt="Ved Tiwari banner" />
+
+<a href="https://github.com/VedTiwari278">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer;MERN+Architect;Building+Real-time+Web+Experiences;Next.js+%26+TypeScript+Enthusiast;Clean+Code.+Scalable+Systems." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=VedTiwari278&label=Profile+Views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/VedTiwari278?style=for-the-badge&logo=github&color=0e7490&labelColor=0a0f1a" alt="Followers" />
+<img src="https://img.shields.io/badge/Based_in-India_🇮🇳-0e7490?style=for-the-badge&labelColor=0a0f1a" alt="Location" />
+
+<br/><br/>
+
+**Crafting high-performance, scalable full-stack applications**
+<br/>
+<sub>React &nbsp;•&nbsp; Node.js &nbsp;•&nbsp; MongoDB &nbsp;•&nbsp; Express</sub>
 
 </div>
 
+<br/>
+
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Science Engineer** passionate about building scalable, user-centric web applications using the **MERN stack**. I love turning complex requirements into elegant, performant solutions.
+```js
+const ved = {
+  role: "MERN Stack Developer",
+  education: "Computer Science Engineer",
+  location: "India 🇮🇳",
+  currentlyExploring: ["Next.js + TypeScript", "WebSockets", "System Design"],
+  projects: "20+ MERN apps",
+  leetcode: "150+ problems solved",
+  values: ["Clean code", "Testing", "Continuous learning"],
+  passion: "Startup ecosystems & impact-driven development",
+};
+```
 
-- 🔭 Currently exploring **Next.js + TypeScript** & **WebSockets** for real-time applications
-- 💼 Experienced in full-stack development, system design, and open-source contributions
-- 🎓 20+ MERN projects | 150+ LeetCode problems solved
-- 🌱 Advocate for clean code, testing, and continuous learning
-- ⚡ Passionate about **startup ecosystems** and **impact-driven development**
+> I turn complex requirements into elegant, performant solutions, from database design to a polished UI.
+
+<br/>
 
 ---
 
@@ -29,27 +49,30 @@ I'm a **Computer Science Engineer** passionate about building scalable, user-cen
 
 <div align="center">
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<table>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind&theme=dark" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql,socketio&theme=dark" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,aws,git,firebase,figma&theme=dark" alt="DevOps and tools" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
+<br/>
 
 ---
 
@@ -57,13 +80,16 @@ I'm a **Computer Science Engineer** passionate about building scalable, user-cen
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedTiwari278&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=5effe6&icon_color=2dd4bf&text_color=a5c9ea)](https://github.com/VedTiwari278)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VedTiwari278&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=5effe6&icon_color=2dd4bf&text_color=a5c9ea&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedTiwari278&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=5effe6&text_color=a5c9ea" alt="Top languages" />
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=VedTiwari278&theme=tokyonight&hide_border=true&background=0a0f1a&stroke=2dd4bf&ring=2dd4bf&fire=00ffff&currStreakNum=ffffff)](https://github.com/VedTiwari278)
+<img src="https://nirzak-streak-stats.vercel.app/?user=VedTiwari278&theme=tokyonight&hide_border=true&background=0a0f1a&stroke=2dd4bf&ring=2dd4bf&fire=00ffff&currStreakNum=ffffff" alt="GitHub streak" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedTiwari278&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=5effe6&text_color=a5c9ea)](https://github.com/VedTiwari278)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VedTiwari278&bg_color=0a0f1a&color=5effe6&line=2dd4bf&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -71,113 +97,117 @@ I'm a **Computer Science Engineer** passionate about building scalable, user-cen
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🎯 TaskFlow Hub</h3>
-      <p><strong>Full-stack task manager with real-time sync</strong></p>
-      <p>React + Redux • Node.js • MongoDB • JWT Auth<br/>Socket.io • Drag-n-drop UI</p>
+      <p><b>Full-stack task manager with real-time sync</b></p>
       <p>
-        <a href="https://github.com/VedTiwari278">View Repo</a> •
-        <a href="#">Live Demo</a>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
       </p>
+      <p>JWT auth • Drag-and-drop UI • Live updates across clients</p>
+      <a href="https://github.com/VedTiwari278"><b>View Repo</b></a> &nbsp;|&nbsp; <a href="#"><b>Live Demo</b></a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🛒 ShopEase Commerce</h3>
-      <p><strong>E-commerce platform with admin dashboard</strong></p>
-      <p>MERN Stack • Stripe Integration • JWT<br/>Redux Toolkit • Responsive Design</p>
+      <p><b>E-commerce platform with admin dashboard</b></p>
       <p>
-        <a href="https://github.com/VedTiwari278">View Repo</a> •
-        <a href="#">Live Demo</a>
+        <img src="https://img.shields.io/badge/MERN-0e7490?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
+      <p>Stripe payments • Admin panel • Fully responsive</p>
+      <a href="https://github.com/VedTiwari278"><b>View Repo</b></a> &nbsp;|&nbsp; <a href="#"><b>Live Demo</b></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>👥 DevCollab Hub</h3>
-      <p><strong>Developer community platform</strong></p>
-      <p>MongoDB • Express • React • Node.js<br/>Real-time notifications • Collaboration tools</p>
+      <p><b>Developer community platform</b></p>
       <p>
-        <a href="https://github.com/VedTiwari278">View Repo</a> •
-        <a href="#">Live Demo</a>
+        <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       </p>
+      <p>Real-time notifications • Collaboration tools</p>
+      <a href="https://github.com/VedTiwari278"><b>View Repo</b></a> &nbsp;|&nbsp; <a href="#"><b>Live Demo</b></a>
     </td>
-    <td width="50%">
-      <h3>📚 More Projects</h3>
-      <p><strong>20+ full-stack applications</strong></p>
-      <p>APIs • Dashboards • Microservices<br/>Real-time apps • Cloud deployments</p>
+    <td width="50%" valign="top">
+      <h3>📚 And 20+ more</h3>
+      <p><b>APIs, dashboards, microservices</b></p>
       <p>
-        <a href="https://github.com/VedTiwari278?tab=repositories">See All Repos</a> •
-        <a href="#">Portfolio</a>
+        <img src="https://img.shields.io/badge/Real--time_Apps-0e7490?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cloud_Deployments-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
       </p>
+      <p>Full-stack apps shipped end to end</p>
+      <a href="https://github.com/VedTiwari278?tab=repositories"><b>See All Repos</b></a> &nbsp;|&nbsp; <a href="#"><b>Portfolio</b></a>
     </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
-## 🎓 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-| 🏆 | Achievement |
-|---|---|
+<img src="https://github-profile-trophy.vercel.app/?username=VedTiwari278&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+
+<br/>
+
+| | Achievement |
+|:-:|:--|
 | 📜 | MERN Stack Certified Developer |
-| 💻 | 20+ Full-stack Projects Deployed |
-| 📊 | 150+ LeetCode Problems Solved |
-| 🔄 | 200+ Pull Requests Reviewed |
-| ⭐ | Active Open-source Contributor |
-| 🚀 | AWS & Cloud Deployment Experienced |
+| 💻 | 20+ full-stack projects deployed |
+| 📊 | 150+ LeetCode problems solved |
+| 🔄 | 200+ pull requests reviewed |
+| ⭐ | Active open-source contributor |
+| 🚀 | AWS & cloud deployment experience |
 
 </div>
 
----
-
-## 💡 What I'm Currently Doing
-
-- 🔥 Building real-time collaboration tools with **WebSockets**
-- 📚 Deep-diving into **System Design** & **Microservices**
-- 🌐 Exploring **Next.js 14+** with **App Router** & **Server Components**
-- 🎨 Mastering **UI/UX** with **Figma** & modern CSS techniques
-- 🤝 Contributing to open-source MERN libraries
+<br/>
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 🔥 What I'm Doing Now
 
-I'm always excited about:
-- 🏢 Full-stack development opportunities
-- 💼 Freelance projects & consulting
-- 🎯 Hackathons & tech competitions
-- 🚀 Startup collaborations
-- 📖 Knowledge sharing & mentoring
+| | Focus |
+|:-:|:--|
+| ⚡ | Building real-time collaboration tools with **WebSockets** |
+| 🏗️ | Deep-diving into **System Design** and **Microservices** |
+| 🌐 | Exploring **Next.js 14+** with App Router and Server Components |
+| 🎨 | Sharpening **UI/UX** with Figma and modern CSS |
+| 🤝 | Contributing to open-source MERN libraries |
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **full-stack roles**, **freelance and consulting work**, **hackathons**, **startup collaborations**, and **mentoring**.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedtiwari278)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vedtiwari278)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedTiwari278)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedtiwari278@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vedprakash_431)
+<a href="https://linkedin.com/in/vedtiwari278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/vedtiwari278"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://github.com/VedTiwari278"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:vedtiwari278@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://instagram.com/vedprakash_431"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-</div>
+<br/><br/>
 
----
+**⭐ If you like my work, a star on my repos goes a long way.**
 
-## 📈 Visitor Count
+<sub><i>"Code is poetry. Let's build something legendary together."</i> 🚀</sub>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=VedTiwari278&label=Profile+Views&color=0e75b6&style=flat-square&abbreviated=true)
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ If you find my work interesting, don't forget to star my repositories!**
-
-Made with ❤️ by Ved Tiwari • *Full Stack Artisan*
-
-*"Code is poetry. Let's build something legendary together!"* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0e7490,100:0a0f1a&height=140&section=footer" alt="Footer wave" />
 
 </div>
