@@ -1,241 +1,219 @@
-
 <div align="center">
 
-<!-- NEON BLUE HERO HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0b1f46,70:075985,100:0284c7&height=230&section=header&text=Ved%20Prakash%20Tiwari&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20Enthusiast&descSize=18&descAlignY=62&descColor=38bdf8" width="100%" />
-
-<!-- TYPING ANIMATION -->
+<!-- Custom Hero Banner -->
 <a href="https://github.com/VedTiwari278">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Code.+Build.+Innovate.;Building+Scalable+Web+Applications;MERN+Stack+%7C+Next.js+%7C+JavaScript;Turning+Ideas+Into+Real+Products" />
+  <img src="./assets/hero-banner.jpg" width="100%" alt="Ved Tiwari — MERN Stack Developer" />
 </a>
-
-<br/>
-
-<!-- PROFILE BADGES -->
-<img src="https://komarev.com/ghpvc/?username=VedTiwari278&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/VedTiwari278?style=for-the-badge&logo=github&color=0369a1&labelColor=020617" />
-<img src="https://img.shields.io/badge/Location-India-075985?style=for-the-badge&logo=googlemaps&logoColor=38bdf8&labelColor=020617" />
 
 <br/><br/>
 
-<a href="#about-me">About</a> •
-<a href="#tech-stack">Tech Stack</a> •
-<a href="#featured-projects">Projects</a> •
-<a href="#github-statistics">Statistics</a> •
-<a href="#connect-with-me">Connect</a>
+<!-- Compact Live Badges & Quick Navigation -->
+<img src="https://komarev.com/ghpvc/?username=VedTiwari278&label=Profile+Views&color=0284c7&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/VedTiwari278?style=for-the-badge&logo=github&color=0369a1&labelColor=050d1f" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/Open_to-Full--Stack_Roles-0284c7?style=for-the-badge&labelColor=050d1f" alt="Open to Full-Stack Roles" />
+
+<br/><br/>
+
+<sub>
+  <a href="#-featured-projects">Featured Projects</a> &nbsp;&bull;&nbsp;
+  <a href="#-engineering-stack">Tech Stack</a> &nbsp;&bull;&nbsp;
+  <a href="#-focus--highlights">Focus &amp; Milestones</a> &nbsp;&bull;&nbsp;
+  <a href="#-github-analytics">Analytics</a> &nbsp;&bull;&nbsp;
+  <a href="#-lets-connect">Connect</a>
+</sub>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050d1f,50:38bdf8,100:050d1f&height=1&section=header" width="100%" alt="" />
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedTiwari278&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1" />
-
-Hi, I'm **Ved Prakash Tiwari**, a Computer Science Engineer and Full-Stack MERN Developer from India.
-
-I have **1.6+ years of hands-on development experience**, building scalable web applications, REST APIs, dashboards and business-oriented software.
-
-- 🔭 Working with MERN Stack technologies.
-- 🌱 Exploring Next.js and TypeScript.
-- ⚡ Experienced in backend development and REST API integration.
-- 💻 Interested in scalable architecture and real-time applications.
-- 🤝 Open to development opportunities and collaborations.
-
-<br clear="right"/>
-
----
-
-## ⚡ Tech Stack
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,postman" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel" />
-</p>
-
----
-
-## 🚀 Featured Projects
+## ✨ Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🍽️ Campus Craving
-
-A full-stack food ordering and marketplace platform.
-
-**Technologies:**
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-
-<a href="https://github.com/VedTiwari278/MAJOR_PROJECT">
-<img src="https://img.shields.io/badge/Source_Code-0284c7?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://major-project-one-alpha.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-020617?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 QR-Based Canteen System
-
-QR-based food ordering and delivery management system.
-
-**Technologies:**
-- React.js
-- Node.js
-- MongoDB
-- QR Integration
-
-<a href="https://github.com/VedTiwari278/Qr_Based_Canteen">
-<img src="https://img.shields.io/badge/Source_Code-0284c7?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://qr-based-canteen.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-020617?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 Sargam
-
-Web and mobile application ecosystem with an admin dashboard.
-
-**Technologies:**
-- React Native
-- Node.js
-- MongoDB
-- React.js
-
-<a href="https://github.com/VedTiwari278/Sargam">
-<img src="https://img.shields.io/badge/Source_Code-0284c7?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ✉️ Email & OTP Service
-
-Reusable email and OTP verification backend service.
-
-**Technologies:**
-- Node.js
-- Express.js
-- REST APIs
-- OTP Authentication
-
-<a href="https://github.com/VedTiwari278/EMAIL-AND-OTP-SERVICES">
-<img src="https://img.shields.io/badge/Source_Code-0284c7?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ Campus Craving (Major Project)</h3>
+      <p>Full-fledged food ordering &amp; commercial marketplace platform engineered for real-world business operations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-0a1e42?style=flat-square&logo=mongodb&logoColor=38bdf8" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/React-0a1e42?style=flat-square&logo=react&logoColor=38bdf8" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=38bdf8" alt="Node.js" />
+      </p>
+      <p>
+        <a href="https://github.com/VedTiwari278/MAJOR_PROJECT"><b>Source Code</b></a> &nbsp;&bull;&nbsp;
+        <a href="https://major-project-one-alpha.vercel.app"><b>Live Demo ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 QR-Based Canteen System</h3>
+      <p>Smart QR-driven ordering &amp; delivery management system designed for fast, queue-free campus canteen service.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MERN_Stack-0a1e42?style=flat-square" alt="MERN" />
+        <img src="https://img.shields.io/badge/QR_Workflow-0f172a?style=flat-square" alt="QR Workflow" />
+        <img src="https://img.shields.io/badge/Vercel-0a1e42?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+      <p>
+        <a href="https://github.com/VedTiwari278/Qr_Based_Canteen"><b>Source Code</b></a> &nbsp;&bull;&nbsp;
+        <a href="https://qr-based-canteen.vercel.app"><b>Live Demo ↗</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 Sargam (Web + Mobile Ecosystem)</h3>
+      <p>Hybrid MERN &amp; React Native platform connecting a mobile user experience with a dedicated web admin console.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-0a1e42?style=flat-square&logo=react&logoColor=38bdf8" alt="React Native" />
+        <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=38bdf8" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-0a1e42?style=flat-square&logo=mongodb&logoColor=38bdf8" alt="MongoDB" />
+      </p>
+      <p>
+        <a href="https://github.com/VedTiwari278/Sargam"><b>Source Code ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✉️ Email &amp; OTP Microservice</h3>
+      <p>Reusable transactional email &amp; 6-digit OTP verification API service built for modern full-stack authentication flows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=38bdf8" alt="Node.js" />
+        <img src="https://img.shields.io/badge/REST_API-0a1e42?style=flat-square" alt="REST API" />
+        <img src="https://img.shields.io/badge/OTP_Auth-0f172a?style=flat-square" alt="OTP Auth" />
+      </p>
+      <p>
+        <a href="https://github.com/VedTiwari278/EMAIL-AND-OTP-SERVICES"><b>Source Code ↗</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
----
-
-## 🧠 Currently Exploring
-
 <div align="center">
 
-| Area | Technologies |
-|:---|:---|
-| Modern Frontend | Next.js, TypeScript |
-| Backend Architecture | Node.js, Express.js |
-| Real-Time Applications | Socket.io, WebSockets |
-| Database | MongoDB, SQL |
-| Development | REST APIs, System Design |
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VedTiwari278&theme=tokyonight" />
-
-<br/><br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VedTiwari278&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=0ea5e9&text_color=cbd5e1" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedTiwari278&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1" />
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=VedTiwari278&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=VedTiwari278&bg_color=020617&color=38bdf8&line=0284c7&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VedTiwari278&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-Let's connect, collaborate and build something amazing together!
+| More Shipped Work | Description | Links |
+| :--- | :--- | :--- |
+| **🔗 URL Shortener** | Fast, clean link shortening service deployed on Vercel | [Repo](https://github.com/VedTiwari278/URL_Short) • [Live ↗](https://url-short-liart.vercel.app) |
+| **🌐 Developer Portfolio** | Personal web portfolio built with Express & EJS | [Repo](https://github.com/VedTiwari278/MYPORTFOLIO) • [Live ↗](https://myportfolio-ap7t.onrender.com) |
+| **🤖 ML Programs** | Practical Python machine learning notebooks & experiments | [Explore ↗](https://github.com/VedTiwari278/Machine_Learning_Programs) |
 
 <br/>
 
-<a href="https://github.com/VedTiwari278">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38bdf8" />
+<a href="https://github.com/VedTiwari278?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_25%2B_Repositories-%E2%86%92-0369a1?style=for-the-badge&logo=github&logoColor=ffffff" alt="All Repositories" />
 </a>
-
-<a href="https://linkedin.com/in/vedtiwari278">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
-</a>
-
-<a href="mailto:vedtiwari278@gmail.com">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
-</a>
-
-<a href="https://vedtiwari.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=38bdf8" />
-</a>
-
-<br/><br/>
-
-### 🚀 Code. Build. Innovate.
-
-*Let's build something amazing together!*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:0b1f46,100:020617&height=120&section=footer" width="100%" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050d1f,50:38bdf8,100:050d1f&height=1&section=header" width="100%" alt="" />
+
+## 🛠️ Engineering Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="180" align="center"><b>Frontend &amp; Mobile</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css&theme=dark" alt="Frontend Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td width="180" align="center"><b>Backend &amp; Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql,python,java,cpp&theme=dark" alt="Backend Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td width="180" align="center"><b>Cloud, DevOps &amp; Design</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,aws,vercel,firebase,git,github,postman,figma&theme=dark" alt="DevOps and Tools" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050d1f,50:38bdf8,100:050d1f&height=1&section=header" width="100%" alt="" />
+
+## 🧭 Focus & Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Currently Exploring</h4>
+      <ul>
+        <li><b>Real-Time Systems:</b> WebSockets, live dashboards &amp; session sync</li>
+        <li><b>Architecture:</b> System Design, Microservices &amp; clean API contracts</li>
+        <li><b>Modern Web:</b> Next.js App Router, Server Components &amp; TypeScript</li>
+        <li><b>UI/UX Craft:</b> Clean, responsive interfaces with Tailwind &amp; Figma</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏆 Engineering Milestones</h4>
+      <ul>
+        <li><b>20+ Full-Stack Apps:</b> Shipped from database schema to cloud deploy</li>
+        <li><b>150+ LeetCode Problems:</b> Strong foundations in DSA &amp; problem solving</li>
+        <li><b>Cross-Platform:</b> Built web + React Native mobile ecosystems</li>
+        <li><b>Cloud Deployments:</b> Production apps on AWS, Vercel &amp; Render</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050d1f,50:38bdf8,100:050d1f&height=1&section=header" width="100%" alt="" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- Profile Details & Contribution Timeline -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VedTiwari278&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
+
+<br/>
+
+<!-- Stats & Languages Side-by-Side -->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=VedTiwari278&show_icons=true&count_private=true&hide_border=false&bg_color=050d1f&border_color=1e3a5f&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" alt="Ved's GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedTiwari278&layout=compact&hide_border=false&bg_color=050d1f&border_color=1e3a5f&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages" />
+
+<br/>
+
+<!-- Contribution Streak -->
+<img src="https://streak-stats.demolab.com/?user=VedTiwari278&hide_border=false&background=050d1f&border=1e3a5f&stroke=1e3a5f&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&dates=64748b" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050d1f,50:38bdf8,100:050d1f&height=1&section=header" width="100%" alt="" />
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Open to **full-stack engineering roles**, **freelance & consulting**, **hackathons**, and **startup collaborations**.
+
+<br/>
+
+<a href="https://linkedin.com/in/vedtiwari278"><img src="https://img.shields.io/badge/LinkedIn-0a1e42?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
+<a href="https://twitter.com/vedtiwari278"><img src="https://img.shields.io/badge/X_/_Twitter-0a1e42?style=for-the-badge&logo=x&logoColor=e2e8f0" alt="Twitter" /></a>
+<a href="https://github.com/VedTiwari278"><img src="https://img.shields.io/badge/GitHub-0a1e42?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub" /></a>
+<a href="mailto:vedtiwari278@gmail.com"><img src="https://img.shields.io/badge/Email-0a1e42?style=for-the-badge&logo=gmail&logoColor=fca5a5" alt="Email" /></a>
+<a href="https://instagram.com/vedprakash_431"><img src="https://img.shields.io/badge/Instagram-0a1e42?style=for-the-badge&logo=instagram&logoColor=f9a8d4" alt="Instagram" /></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+
+<br/><br/>
+
+<sub>Code. Build. Innovate. &nbsp;&bull;&nbsp; ⭐ Star a repo if something here helped or inspired you!</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1e42,50:0284c7,100:050d1f&height=100&section=footer" width="100%" alt="Footer Wave" />
+
+</div>
