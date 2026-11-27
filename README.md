@@ -13,6 +13,7 @@ const vedTiwari = {
   role: "MERN Stack & Full-Stack Developer",
   experience: "1.6+ years building scalable web & mobile apps",
   location: "India",
+  flagshipSystems: ["Leadify Pro (Email & OTP SaaS)", "PMS / FlipCode Marketplace", "Sargam (Web + Mobile)"],
   coreStack: ["React", "Node.js", "MongoDB", "Express.js", "Next.js", "TypeScript"],
   currentlyExploring: ["System Design", "Microservices", "WebSockets", "React Native"],
   milestones: {
@@ -24,52 +25,55 @@ const vedTiwari = {
 };
 ```
 
-## ✨ Featured Projects
+## 🚀 Flagship Projects
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🍽️ Campus Craving <sub><code>MAJOR_PROJECT</code></sub></h3>
-      Full-fledged food ordering &amp; commercial marketplace platform engineered for real-world business operations.<br/>
-      <img src="https://img.shields.io/badge/React-050f2c?style=for-the-badge&logo=react&logoColor=00aeff" alt="React" />
+      <h3>✉️ Leadify Pro <sub><code>Email &amp; OTP Microservice</code></sub></h3>
+      Multi-tenant transactional email &amp; 6-digit OTP verification SaaS platform with AES-256-GCM encrypted SMTP vaults, isolated workspaces, key rotation, rate-limited cooldowns, and an interactive API playground.<br/>
       <img src="https://img.shields.io/badge/Node.js-050f2c?style=for-the-badge&logo=nodedotjs&logoColor=2dde98" alt="Node.js" />
+      <img src="https://img.shields.io/badge/React_19-050f2c?style=for-the-badge&logo=react&logoColor=00aeff" alt="React 19" />
       <img src="https://img.shields.io/badge/MongoDB-050f2c?style=for-the-badge&logo=mongodb&logoColor=2dde98" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Express-050f2c?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" /><br/>
-      <a href="https://github.com/VedTiwari278/MAJOR_PROJECT"><img src="https://img.shields.io/badge/Source_Code-0a1e42?style=flat-square&logo=github&logoColor=00aeff" alt="Source Code" /></a>
-      <a href="https://major-project-one-alpha.vercel.app"><img src="https://img.shields.io/badge/Live_Demo_%E2%86%97-0077b6?style=flat-square&logo=vercel&logoColor=ffffff" alt="Live Demo" /></a>
+      <img src="https://img.shields.io/badge/AES--256--GCM-050f2c?style=for-the-badge&logo=letsencrypt&logoColor=00aeff" alt="AES-256-GCM" /><br/>
+      <a href="https://github.com/VedTiwari278/EMAIL-AND-OTP-SERVICES"><img src="https://img.shields.io/badge/Source_Code-0a1e42?style=flat-square&logo=github&logoColor=00aeff" alt="Source Code" /></a>
+      <a href="https://mail.watsalead.in"><img src="https://img.shields.io/badge/Live_Service_%E2%86%97-0077b6?style=flat-square&logo=vercel&logoColor=ffffff" alt="Live Service" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 QR-Based Canteen <sub><code>Qr_Based_Canteen</code></sub></h3>
-      Smart QR-driven ordering &amp; delivery management system designed for fast, queue-free campus canteen service.<br/>
-      <img src="https://img.shields.io/badge/MERN_Stack-050f2c?style=for-the-badge&logo=react&logoColor=00aeff" alt="MERN" />
-      <img src="https://img.shields.io/badge/QR_System-050f2c?style=for-the-badge&logo=qrcode&logoColor=00aeff" alt="QR System" />
-      <img src="https://img.shields.io/badge/Vercel-050f2c?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" /><br/>
-      <a href="https://github.com/VedTiwari278/Qr_Based_Canteen"><img src="https://img.shields.io/badge/Source_Code-0a1e42?style=flat-square&logo=github&logoColor=00aeff" alt="Source Code" /></a>
-      <a href="https://qr-based-canteen.vercel.app"><img src="https://img.shields.io/badge/Live_Demo_%E2%86%97-0077b6?style=flat-square&logo=vercel&logoColor=ffffff" alt="Live Demo" /></a>
+      <h3>🛒 PMS (FlipCode) <sub><code>Multi-Portal Marketplace</code></sub></h3>
+      Production digital source-code marketplace featuring 3 portals (Buyer Storefront, Seller Studio, SuperAdmin Hub), dual Express backends, Razorpay UPI checkout, 100MB GridFS+Cloudinary uploads, Gemini AI PPT generator, and live multi-device session tracking.<br/>
+      <img src="https://img.shields.io/badge/MERN_Stack-050f2c?style=for-the-badge&logo=react&logoColor=00aeff" alt="MERN Stack" />
+      <img src="https://img.shields.io/badge/Razorpay-050f2c?style=for-the-badge&logo=razorpay&logoColor=00aeff" alt="Razorpay" />
+      <img src="https://img.shields.io/badge/Redis-050f2c?style=for-the-badge&logo=redis&logoColor=00aeff" alt="Redis" />
+      <img src="https://img.shields.io/badge/Gemini_AI-050f2c?style=for-the-badge&logo=googlegemini&logoColor=00aeff" alt="Gemini AI" /><br/>
+      <a href="https://marketplace.watsalead.in"><img src="https://img.shields.io/badge/Live_Marketplace_%E2%86%97-0077b6?style=flat-square&logo=vercel&logoColor=ffffff" alt="Live Marketplace" /></a>
+      <a href="https://www.watsalead.in"><img src="https://img.shields.io/badge/WatsaLead_Ecosystem_%E2%86%97-0a1e42?style=flat-square&logo=googlechrome&logoColor=00aeff" alt="WatsaLead" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎵 Sargam Ecosystem <sub><code>Web + Mobile</code></sub></h3>
-      Hybrid MERN &amp; React Native platform connecting a mobile user experience with a dedicated web admin console.<br/>
+      Cross-platform React Native &amp; MERN application pairing a native mobile user experience with a full-featured web admin management dashboard.<br/>
       <img src="https://img.shields.io/badge/React_Native-050f2c?style=for-the-badge&logo=react&logoColor=00aeff" alt="React Native" />
       <img src="https://img.shields.io/badge/Node.js-050f2c?style=for-the-badge&logo=nodedotjs&logoColor=2dde98" alt="Node.js" />
       <img src="https://img.shields.io/badge/MongoDB-050f2c?style=for-the-badge&logo=mongodb&logoColor=2dde98" alt="MongoDB" /><br/>
       <a href="https://github.com/VedTiwari278/Sargam"><img src="https://img.shields.io/badge/Source_Code_%E2%86%97-0a1e42?style=flat-square&logo=github&logoColor=00aeff" alt="Source Code" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>✉️ Email &amp; OTP Service <sub><code>Microservice</code></sub></h3>
-      Reusable transactional email &amp; 6-digit OTP verification API service built for modern full-stack authentication flows.<br/>
-      <img src="https://img.shields.io/badge/Node.js-050f2c?style=for-the-badge&logo=nodedotjs&logoColor=2dde98" alt="Node.js" />
+      <h3>🍽️ Campus Craving <sub><code>MAJOR_PROJECT</code></sub></h3>
+      Full-fledged commercial food-ordering &amp; restaurant business platform built with end-to-end cart, ordering, and admin workflows.<br/>
+      <img src="https://img.shields.io/badge/React-050f2c?style=for-the-badge&logo=react&logoColor=00aeff" alt="React" />
       <img src="https://img.shields.io/badge/Express-050f2c?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" />
-      <img src="https://img.shields.io/badge/REST_API-050f2c?style=for-the-badge&logo=postman&logoColor=00aeff" alt="REST API" /><br/>
-      <a href="https://github.com/VedTiwari278/EMAIL-AND-OTP-SERVICES"><img src="https://img.shields.io/badge/Source_Code_%E2%86%97-0a1e42?style=flat-square&logo=github&logoColor=00aeff" alt="Source Code" /></a>
+      <img src="https://img.shields.io/badge/MongoDB-050f2c?style=for-the-badge&logo=mongodb&logoColor=2dde98" alt="MongoDB" /><br/>
+      <a href="https://github.com/VedTiwari278/MAJOR_PROJECT"><img src="https://img.shields.io/badge/Source_Code-0a1e42?style=flat-square&logo=github&logoColor=00aeff" alt="Source Code" /></a>
+      <a href="https://major-project-one-alpha.vercel.app"><img src="https://img.shields.io/badge/Live_Demo_%E2%86%97-0077b6?style=flat-square&logo=vercel&logoColor=ffffff" alt="Live Demo" /></a>
     </td>
   </tr>
 </table>
 
-| More Shipped Work | Summary | Links |
+| Other Production & Shipped Work | Summary | Links |
 | :--- | :--- | :--- |
+| **📱 QR-Based Canteen** | Smart QR-driven college canteen ordering & delivery system | [Repo](https://github.com/VedTiwari278/Qr_Based_Canteen) • [Live ↗](https://qr-based-canteen.vercel.app) |
 | **🔗 URL Shortener** | Fast link shortening web app deployed on Vercel | [Repo](https://github.com/VedTiwari278/URL_Short) • [Live ↗](https://url-short-liart.vercel.app) |
 | **🌐 Developer Portfolio** | Personal web portfolio built with Express & EJS | [Repo](https://github.com/VedTiwari278/MYPORTFOLIO) • [Live ↗](https://myportfolio-ap7t.onrender.com) |
 | **🤖 ML Programs** | Practical Python machine learning notebooks & code | [Explore ↗](https://github.com/VedTiwari278/Machine_Learning_Programs) |
@@ -99,6 +103,7 @@ const vedTiwari = {
       <img src="https://img.shields.io/badge/Node.js-050f2c?style=for-the-badge&logo=nodedotjs&logoColor=2dde98" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-050f2c?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express.js" />
       <img src="https://img.shields.io/badge/MongoDB-050f2c?style=for-the-badge&logo=mongodb&logoColor=2dde98" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-050f2c?style=for-the-badge&logo=redis&logoColor=00aeff" alt="Redis" />
       <img src="https://img.shields.io/badge/PostgreSQL-050f2c?style=for-the-badge&logo=postgresql&logoColor=00aeff" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Socket.io-050f2c?style=for-the-badge&logo=socketdotio&logoColor=ffffff" alt="Socket.io" />
       <img src="https://img.shields.io/badge/GraphQL-050f2c?style=for-the-badge&logo=graphql&logoColor=38bdf8" alt="GraphQL" />
